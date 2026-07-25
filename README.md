@@ -39,7 +39,24 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=tanbinahmedsiyam-bcs&theme=dark" width="90%" alt="GitHub Streak" />
+<!-- GitHub Stats & Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=tanbinahmedsiyam-bcs&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanbinahmedsiyam-bcs&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- GitHub Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=tanbinahmedsiyam-bcs&theme=dark&hide_border=true" width="97%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- LeetCode Problem Solving Stats -->
+<img src="https://leetcode-stats-card.herokuapp.com/?username=tanbinahmedsiyam-bcs&theme=dark" width="97%" alt="LeetCode Stats" />
+
+<br/><br/>
+
+<!-- Contribution Visual Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanbinahmedsiyam-bcs&theme=react-dark&hide_border=true" width="97%" alt="Contribution Graph" />
 
 </div>
 
