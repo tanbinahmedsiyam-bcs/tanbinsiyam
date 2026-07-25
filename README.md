@@ -36,7 +36,18 @@ https://www.linkedin.com/in/siam-ahmed-13721837a/?lipi=urn%3Ali%3Apage%3Ad_flags
 <img src="https://leetcode-stats-card.herokuapp.com/?username=tanbinahmedsiyam-bcs&theme=dark" width="97%" alt="LeetCode Stats" />
 
 </div>
+## 📊 Performance & Contribution Metrics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tanbinahmedsiyam-bcs&show_icons=true&theme=dark&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=tanbinahmedsiyam-bcs&theme=dark" width="48%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://leetcode-stats-card.herokuapp.com/?username=tanbinahmedsiyam-bcs&theme=dark" width="97%" alt="LeetCode Stats" />
+
+</div>
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
