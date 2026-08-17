@@ -51,7 +51,7 @@
 <br/><br/>
 
 <!-- LeetCode Problem Solving Stats -->
-<img src="https://leetcode-stats-card.herokuapp.com/?username=tanbinahmedsiyam-bcs&theme=dark" width="97%" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/tanbinahmedsiyam-bcs?theme=dark&font=Syne&ext=activity" width="100%" alt="LeetCode Stats" />
 
 <br/><br/>
 
